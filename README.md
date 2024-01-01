@@ -1,19 +1,13 @@
 Welcome to my GitHub repository! I am a passionate Flutter developer specializing in Android projects, API integrations, and Firebase backend development. I have expertise in state management using GetX and Riverpod, and I am currently focusing on enhancing my skills in data structures and algorithms.
 
 **Project Overview**
-
 In this repository, you will find a collection of Android projects developed using Flutter. These projects demonstrate my proficiency in creating dynamic and responsive mobile applications, integrating APIs for data retrieval, and utilizing Firebase for backend services.
 
 **Key Features**
-
 - Android Flutter Projects
-
 - API Integration Examples
-
 - Firebase Backend Implementations
-
 - GetX State Management Demonstrations
-
 - Riverpod State Management Examples
 
 **State Management**
