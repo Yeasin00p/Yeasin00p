@@ -36,7 +36,8 @@ Feel free to reach out if you have any questions or suggestions!
 
 **Contact**
 
-**LinkedIn:[Linkdin] (https://www.linkedin.com/in/yeasin-arafat-338973227/).**
+**LinkedIn:[Linkdin](https://www.linkedin.com/in/yeasin-arafat-338973227/)**
+
 **Email:  yeasin00p@gmail.com**
 
 **Happy coding! 🚀**
