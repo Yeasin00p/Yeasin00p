@@ -29,9 +29,12 @@ Currently, I am dedicating time to enhance my understanding of data structures a
 
 To explore my projects and learn more about Flutter development, follow these steps:
 
-Clone the repository: git clone https://github.com/Yeasin00p/your-repository.git
+Clone the repository: git clone https://github.com/Yeasin00p/repository.git
+
 Navigate to the project directory: cd your-repository
+
 Explore the projects and their documentation.
+
 Feel free to reach out if you have any questions or suggestions!
 
 **Contact**
