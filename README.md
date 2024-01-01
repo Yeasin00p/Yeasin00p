@@ -10,6 +10,7 @@ Firebase Backend Implementations
 GetX State Management Demonstrations
 Riverpod State Management Examples
 State Management
+
 GetX
 I leverage GetX for efficient state management, navigation, and dependency injection in my projects. The clean and concise syntax of GetX allows me to build robust and maintainable applications.
 
