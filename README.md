@@ -7,10 +7,15 @@ In this repository, you will find a collection of Android projects developed usi
 Key Features
 
 Android Flutter Projects
+
 API Integration Examples
+
 Firebase Backend Implementations
+
 GetX State Management Demonstrations
+
 Riverpod State Management Examples
+
 State Management
 
 GetX
