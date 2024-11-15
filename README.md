@@ -1,6 +1,4 @@
 
-**Project Overview**
-
 In this repository, you will find a collection of Android projects developed using Flutter. These projects demonstrate my proficiency in creating dynamic and responsive mobile applications, integrating APIs for data retrieval, and utilizing Firebase for backend services.
 
 **Key Features**
